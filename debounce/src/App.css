@@ -1,0 +1,30 @@
+.App{
+  width: 300%;
+  margin: 5% auto;
+}
+
+.search{
+  width: 100%;
+  padding: 7px;
+  font-size: 1.2 rem;
+  color: lightcoral;
+  box-sizing: border-box;
+  outline: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.autoComplete{
+  width: 100%;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.autoCompleteItems{
+  border-bottom: 1px solid #e6e6e6;
+  padding: 10px 5px;
+  cursor: pointer;
+  color: dodgerblue;
+  font-weight: bold;
+}
